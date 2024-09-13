@@ -16,7 +16,6 @@ public class MyFirstAppJava {
      */
     public static void main(String[] args) {
         System.out.println("Hello there"); //making a change
-        //more change!!!
     }
 
 }
